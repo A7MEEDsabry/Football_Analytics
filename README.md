@@ -8,6 +8,10 @@ This project builds upon basic object detection by introducing high-level tactic
 
 ## Demo
 ![Demo Screenshot](assets/demo.png)
+
+Uploading AI-Powered Football Tactical Analysis System.mp4…
+
+
 ---
 
 ## Key Features
