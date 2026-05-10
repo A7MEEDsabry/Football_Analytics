@@ -9,7 +9,11 @@ This project builds upon basic object detection by introducing high-level tactic
 ## Demo
 
 
-https://github.com/user-attachments/assets/73585417-cc34-464c-8260-96e911e2db21
+
+
+https://github.com/user-attachments/assets/f4f837ad-9927-4997-9704-e81c4a0ab660
+
+
 
 
 ---
